@@ -4,7 +4,7 @@ const fs = require('fs');
 //fs.writeFileSync('WFAsynch.txt', 'this is the content of file');
 
 //Writing file asych.........
-fs.writeFile("AyschW.txt", "this is the asych write operation", function(abc){
+fs.writeFile("ArishBhai.txt", "this is the asych write operation", function(abc){
     if(abc){
     console.log("abc occured", abc);
 }
